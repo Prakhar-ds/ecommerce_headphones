@@ -66,11 +66,11 @@ const Footer = () => {
       <div className='social-media-wrap'>
         <div className='footer-logo'>
           <a  href='#' className='social-logo'>
-            boAt 2.0
+            Go Noise
             <i className='fab fa-typo3' />
           </a>
         </div>
-        <small className='website-rights'>boAt 2.0 © 2020</small>
+        <small className='website-rights'>Go Noice © 2020</small>
         <div className='social-icons'>
           <a
             className='social-icon-link facebook'
