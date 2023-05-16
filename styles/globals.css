@@ -1088,6 +1088,10 @@ footer {
   margin-top: 15px;
 }
 
+.disable{
+  opacity: 0.3;
+}
+
 .address p {
   font-size: large;
   color: #242424;
